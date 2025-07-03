@@ -3,7 +3,7 @@
 A machine learning-based binary classifier that detects spam emails using text preprocessing and statistical features. Built using Scikit-learn, this model analyzes email contents and filters spam using classical NLP + ML techniques.
 
 <div align="center">
-   <image src = "![Image](https://github.com/user-attachments/assets/740f8313-cf0a-4f7d-b4e6-451a146d16a1)" alt="Spam Classifier Diagram" width="600"/>
+   <image src = "https://github.com/S-Varshaa-Sai-Sripriya/InboxShield-ML/issues/1#issue-3198816193"/>
 </div>
 
 > 🎯 A foundational classification project demonstrating end-to-end spam detection using TF-IDF, logistic regression, and model evaluation on real-world datasets.
