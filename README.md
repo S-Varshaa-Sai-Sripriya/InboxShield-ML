@@ -2,7 +2,7 @@
 
 A machine learning-based binary classifier that detects spam emails using text preprocessing and statistical features. Built using Scikit-learn, this model analyzes email contents and filters spam using classical NLP + ML techniques.
 
-<div align = center>
+<div align="center">
    <image src = "![Image](https://github.com/user-attachments/assets/740f8313-cf0a-4f7d-b4e6-451a146d16a1)"/>
 </div>
 
