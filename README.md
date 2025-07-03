@@ -3,7 +3,7 @@
 A machine learning-based binary classifier that detects spam emails using text preprocessing and statistical features. Built using Scikit-learn, this model analyzes email contents and filters spam using classical NLP + ML techniques.
 
 <div = center>
-   <image src = "![2022_01_Spam-Filtering-using-Bag-of-Words-1](https://github.com/user-attachments/assets/2afc86b4-14d3-4295-ac39-0578f03ccc45)"/>
+   <image src = "![Image](https://github.com/user-attachments/assets/740f8313-cf0a-4f7d-b4e6-451a146d16a1)"/>
 </div>
 
 > 🎯 A foundational classification project demonstrating end-to-end spam detection using TF-IDF, logistic regression, and model evaluation on real-world datasets.
